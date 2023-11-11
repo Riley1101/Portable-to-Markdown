@@ -1,0 +1,15 @@
+{
+  "name": "portfolia-mdx",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@sanity/block-content-to-markdown": "^0.0.5",
+    "@sanity/client": "^6.8.0"
+  }
+}
