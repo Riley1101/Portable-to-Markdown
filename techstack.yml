@@ -1,11 +1,11 @@
 repo_name: Riley1101/Portable-to-Markdown
-report_id: 1f426e11320ab2f068de15d822ae0d0c
+report_id: 32ff785d59c4d9b3007add6d8438c9df
 repo_type: Public
-timestamp: '2023-11-11T17:16:35+00:00'
+timestamp: '2023-12-14T10:25:31+00:00'
 requested_by: Riley1101
 provider: github
 branch: main
-detected_tools_count: 3
+detected_tools_count: 2
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,14 +25,4 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
-  detection_source: Repo Metadata
-- name: Shell
-  description: A shell is a text-based terminal, used for manipulating programs and
-    files. Shell scripts typically manage program execution.
-  website_url: https://en.wikipedia.org/wiki/Shell_script
-  open_source: false
-  hosted_saas: false
-  category: Languages & Frameworks
-  sub_category: Languages
-  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
   detection_source: Repo Metadata
